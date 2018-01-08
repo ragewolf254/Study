@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">StudyApplication1</string>
     <string name="my_text">I\'m Rich!</string>
+    <string name="icon_image_description">icon_image</string>
 </resources>
