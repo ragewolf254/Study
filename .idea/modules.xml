@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarSimulator/CarSimulator.iml" filepath="$PROJECT_DIR$/CarSimulator/CarSimulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyApp.iml" filepath="$PROJECT_DIR$/StudyApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmiCalculator/bmiCalculator.iml" filepath="$PROJECT_DIR$/bmiCalculator/bmiCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaPractice/javaPractice.iml" filepath="$PROJECT_DIR$/javaPractice/javaPractice.iml" />
     </modules>
   </component>
